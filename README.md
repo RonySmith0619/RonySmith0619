@@ -1,40 +1,165 @@
-<!-- href="https://vinodjangid07.github.io/" target="_blank" -->
-# <a >My Portfolio</a>
-<p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><div dir="auto"><div class="markdown-heading" dir="auto"><h1 align="center" dir="auto" class="heading-element">👋 Hi, I’m James Teets</h1><a id="user-content--hi-im-james-teets" class="anchor" aria-label="Permalink: 👋 Hi, I’m James Teets" href="#-hi-im-james-teets"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content--hi-im-agile-passionate-creative-developer" aria-label="Permalink: 👋 Hi, I’m Agile Passionate Creative Developer" href="#-hi-im-agile-passionate-creative-developer"></a></div>
+<p align="center" dir="auto">
+  </p><div dir="auto"><div class="markdown-heading" dir="auto"><h3 align="center" dir="auto" class="heading-element">Senior Backend &amp; AI Engineer | SaaS, LLM &amp; APIs Integration</h3><a id="user-content-senior-backend--ai-engineer--saas-llm--apis-integration" class="anchor" aria-label="Permalink: Senior Backend &amp; AI Engineer | SaaS, LLM &amp; APIs Integration" href="#senior-backend--ai-engineer--saas-llm--apis-integration"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content-aiml-engineer--deep-learning-specialist--multi-platform-innovator" aria-label="Permalink: AI/ML Engineer | Deep Learning Specialist | Multi-Platform Innovator" href="#aiml-engineer--deep-learning-specialist--multi-platform-innovator"></a></div>
+<p dir="auto"><a href="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" rel="nofollow"><img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a>
+<a href="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only" rel="nofollow"><img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;"></a></p>
+<ul dir="auto">
+<li>
+<p dir="auto">🤖 Specialize in building <strong>backend and AI-powered applications</strong>, from API development and business logic to <strong>LLM integration</strong> and deployment.<br></p>
+</li>
+<li>
+<p dir="auto">🧠 Work with <strong>Python</strong>, <strong>FastAPI</strong>, <strong>Django</strong>, <strong>Node.js</strong>, and <strong>TypeScript</strong> to develop reliable <strong>backend services</strong>, <strong>REST APIs</strong>, and <strong>SaaS applications</strong>.<br></p>
+</li>
+<li>
+<p dir="auto">🔗 Integrate <strong>LLMs</strong>, <strong>OpenAI APIs</strong>, <strong>AI chatbots</strong>, and <strong>third-party APIs</strong> into web applications and business systems.<br></p>
+</li>
+<li>
+<p dir="auto">☁️ Build and deploy <strong>cloud-based applications</strong> using <strong>AWS</strong>, <strong>Docker</strong>, <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, and <strong>modern development tools</strong>.<br></p>
+</li>
+<li>
+<p dir="auto">💻 Develop <strong>SaaS platforms</strong> and <strong>web applications</strong> with technologies such as <strong>React</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and <strong>TypeScript</strong>, with a strong focus on backend development.<br></p>
+</li>
+<li>
+<p dir="auto">🚀 Interested in <strong>AI/LLM applications</strong>, <strong>API development</strong>, <strong>SaaS products</strong>, <strong>automation</strong>, and scalable backend systems, while continuously learning new technologies.</p>
+</li>
+</ul>
+<div dir="auto"><div class="markdown-heading" dir="auto"><h4 align="center" dir="auto" class="heading-element">
+ Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
+</h4><a id="user-content--lets-innovate-together---fork-a-project--star-a-repo-or--reach-out" class="anchor" aria-label="Permalink: 
+ Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
+" href="#-lets-innovate-together---fork-a-project--star-a-repo-or--reach-out"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content--lets-innovate-together---fork-a-project--star-a-repo-or--reach-out" aria-label="Permalink: 
+ Let's innovate together → 🛒 Fork a project, 🌟 star a repo, or 📞 reach out
+" href="#-lets-innovate-together---fork-a-project--star-a-repo-or--reach-out"></a></div>
+<p dir="auto"></p>
+<div dir="auto"><div class="markdown-heading" dir="auto"><h2 dir="auto" class="heading-element">What can I do:</h2><a id="user-content-what-can-i-do" class="anchor" aria-label="Permalink: What can I do:" href="#what-can-i-do"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content-what-can-i-do" aria-label="Permalink: What can I do:" href="#what-can-i-do"></a></div>
+<markdown-accessiblity-table data-catalyst=""><table>
+  <tbody><tr>
+  <td width="60%">
+  - 🧠 AI/ML Systems &amp; Deep Learning Models
+    <br><br>
+  - 🤖 Agentic AI &amp; Autonomous Workflows
+    <br><br>
+  - 🔍 AI Search &amp; Recommendation Systems
+    <br><br>
+  - 💬 AI Voice &amp; Chat Systems
+    <br><br>
+  - 🌐 Web &amp; Mobile Apps Powered by AI
+    <br><br>
+  - 📈 Intelligent SaaS, CRM, and Automation Tools
+  </td>
+  <td width="35%"><animated-image data-catalyst=""><a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" data-target="animated-image.originalLink"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" data-setup="" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="GIF" class="AnimatedImagePlayer-animatedImage" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="284" height="213"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play GIF" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play GIF">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open GIF in new window" class="AnimatedImagePlayer-button" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
+      <span>
+        <a href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+        <span>
+            <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" data-animated-image="" style="max-width: 100%;">
+          </span></a>
+        
+        <span>
+          
+            
+              
+            
+            
+              
+              
+            
+          
+          <a aria-label="Open GIF in new window" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+            
+              
+            
+          </a>
+        </span>
+      </span></td>
+</tr></tbody></table></markdown-accessiblity-table>
+<div dir="auto"><div class="markdown-heading" dir="auto"><h2 dir="auto" class="heading-element">My Skills</h2><a id="user-content-my-skills" class="anchor" aria-label="Permalink: My Skills" href="#my-skills"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content-my-skills" aria-label="Permalink: My Skills" href="#my-skills"></a></div>
+<markdown-accessiblity-table data-catalyst=""><table>
+  <tbody><tr>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/openai.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/openai.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/claude.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/claude.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/anthrophic.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/anthrophic.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/huggingface.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/huggingface.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/langchain.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/langchain.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/deepseek.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/deepseek.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/retellai.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/retellai.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/runpod.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/runpod.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/botpress.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/botpress.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/voiceflow.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/voiceflow.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/pinecone.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/pinecone.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/faiss.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/faiss.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?raw=true" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/javascript.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/javascript.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/typescript.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/typescript.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/python.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/react.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/react.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/next.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/laravel.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/laravel.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/node.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/fastapi.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/django.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/django.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/mongodb.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/mongodb.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/mysql.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/mysql.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/postgresql.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/postgresql.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://camo.githubusercontent.com/830ab0a04d79ea91499fd105d265e582bf1e2cdb51a678ba28ee8dfd5031d19b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" rel="nofollow"><img src="https://camo.githubusercontent.com/830ab0a04d79ea91499fd105d265e582bf1e2cdb51a678ba28ee8dfd5031d19b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/docker.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/kubernetes.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/kubernetes.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/aws.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/aws.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/azure.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/azure.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/google_cloud.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/google_cloud.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://camo.githubusercontent.com/7ca50d95d713e2a3d78b127eafc21866d0e492e73dc05f12553e000ac3007246/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e7376673f7261773d74727565" rel="nofollow"><img src="https://camo.githubusercontent.com/7ca50d95d713e2a3d78b127eafc21866d0e492e73dc05f12553e000ac3007246/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e7376673f7261773d74727565" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/CRM.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/CRM.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/ghl.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/ghl.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/make.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/make.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/zapier.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/zapier.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/n8n.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/AI/n8n.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/react_native.png"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/react_native.png" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/flutter.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/flutter.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/android.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/android.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/iOS.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/iOS.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/bitcoin.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/blockchain/bitcoin.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/ethereum.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/blockchain/ethereum.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/solana.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/blockchain/solana.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/solidity.png?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/blockchain/solidity.png?raw=true" width="200" style="max-width: 100%;"></a></td>
+    <td><a href="https://github.com/lucyhunter9411/profile_icon/blob/main/blockchain/NFT.jpg?raw=true"><img src="https://github.com/lucyhunter9411/profile_icon/raw/main/blockchain/NFT.jpg?raw=true" width="200" style="max-width: 100%;"></a></td>
+  </tr>
+</tbody></table></markdown-accessiblity-table>
+<p dir="auto"><a href="https://camo.githubusercontent.com/4395ee03f6bb216dd671863f70550e20ae5d935be6db772cfad0cb7113f61c67/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d4e46546b6e696768742e4e46546b6e69676874" rel="nofollow"><img align="left" src="https://camo.githubusercontent.com/4395ee03f6bb216dd671863f70550e20ae5d935be6db772cfad0cb7113f61c67/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d4e46546b6e696768742e4e46546b6e69676874" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://camo.githubusercontent.com/24e1abcbcaa53d3ab3e5be0a8270097b23aa8778d2d8073d4941fa868d2b8c45/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6c75637968756e746572393431313f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" rel="nofollow"><img align="right" src="https://camo.githubusercontent.com/24e1abcbcaa53d3ab3e5be0a8270097b23aa8778d2d8073d4941fa868d2b8c45/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6c75637968756e746572393431313f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" style="max-width: 100%;"></a></p>
+<h1 align="center" dir="auto"></h1>
+<br>
 
-<!-- [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
-
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io) -->
-<!-- <a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a> -->
-
-<img width="100%" alt="Portfolio Screenshot" src="/src/png/portfolio.png">
-<img width="100%" alt="Portfolio Screenshot" src="/src/png/portfolio1.png">
-
-:star: Star me on GitHub — it helps!
-
-# Sections 📚
-
-✔️ Mini intro\
-✔️ About me \
-✔️ Skills\
-✔️ Projects\
-
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- ⚠️ Remove my Bitmoji <img src="/src/png/nav-avatar.png" width="20px"> from the navbar/footer and use yours instead.⚠️
-- Add or remove images from `/src/png/nav-avatar` directory as per your requirement.
-- ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
-
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
-## Tools Used 🛠️
-* [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
-* [<b>Animate on scroll library</b>] - To animate my website while scrolling.
-<!-- (https://github.com/michalsnik/aos) -->
-* [<b>Animista</b>] - To use Interactive animations
-<!-- (https://animista.net/) -->
-
-Please contact me at ronysmith@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
+<div dir="auto"><div class="markdown-heading" dir="auto"><h2 dir="auto" class="heading-element">Contribution graph</h2><a id="user-content-contribution-graph" class="anchor" aria-label="Permalink: Contribution graph" href="#contribution-graph"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><a id="user-content-contribution-graph" aria-label="Permalink: Contribution graph" href="#contribution-graph"></a></div>
+  <p dir="auto"><a href="https://camo.githubusercontent.com/b2ed67d2ba2c0d1c4d1e698a784e7dabba3006524751748f15278c4a8b9df980/68747470733a2f2f676863686172742e72736861682e6f72672f3231393666332f446576616e672d3235" rel="nofollow"><img src="https://camo.githubusercontent.com/b2ed67d2ba2c0d1c4d1e698a784e7dabba3006524751748f15278c4a8b9df980/68747470733a2f2f676863686172742e72736861682e6f72672f3231393666332f446576616e672d3235" alt="Devang's GitHub contribution graph" style="max-width: 100%;"></a></p>
+</article>
